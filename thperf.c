@@ -2,8 +2,7 @@
 * This is the prototype of a network speed measurement tool 
 * written as part of the bachlor's thesis 
 * "Benchmarking tools for TCP- and UDP-Connection speeds"
-* by A. Koeller at South-Westphalia University of Applied 
-* Sciences in November 2016.
+* by A. Koeller in November 2016.
 ***********************************************************/
 
 #include "thperf_tcp.h"
